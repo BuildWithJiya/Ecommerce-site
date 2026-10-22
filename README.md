@@ -7,4 +7,4 @@ A responsive e-commerce website built using HTML, CSS, and JavaScript, featuring
 
 To practice front-end web development by creating a visually engaging fashion e-commerce interface inspired by Gen Z trends.
 
-![The GEN Z Fashion Brand Homepage](file:///Users/jiya/Desktop/homepage.png)
+![The GEN Z Fashion Brand Homepage](screenshort/homepage.png)
